@@ -1,0 +1,74 @@
+h1 {
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: right;
+}
+
+p {
+    color:green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-align: center;
+}
+
+h2 {
+    background-color: blue;
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+}
+
+table,th,td {
+    background-color: orange;
+    border: 2px solid red;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+a:link {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: green;
+}
+
+a:visited {
+    color: green;
+    font-style: italic;
+}
+
+a:hover {
+    color: orange;
+    background-color: green;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+a:active {
+    color: red;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.importante {
+    color: pink;
+    background-color: lightyellow;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.titulo-grande {
+    font-weight: bold;
+    font-size: 20px;
+    color: orange;
+}
+
+#retrato {
+    height: 30%;
+}
